@@ -1,5 +1,4 @@
-# Michigan-PRS
-# README: Score Data Analysis in R
+# Score Data Analysis in R
 
 ## Overview
 This project analyzes score data using R, integrating phenotypic data and performing statistical analyses, including linear modeling and correlation analysis.
